@@ -53,6 +53,9 @@ I’m deeply passionate about:
 - **C++ Development:** Crafting efficient, high-performance code for complex systems.
 
 ---
+## 🌐 Personal Website
+
+Check out my personal website for more details about my projects and experience: [Samir Rizk's Personal Website](https://SamRizk.github.io)
 
 ## 🤝 Let's Connect
 
